@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -7,8 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Manage\Data\" />
-    <Folder Include="Models\" />
+    <Compile Remove="Areas\Manage\Data\**" />
+    <Content Remove="Areas\Manage\Data\**" />
+    <EmbeddedResource Remove="Areas\Manage\Data\**" />
+    <None Remove="Areas\Manage\Data\**" />
   </ItemGroup>
 
   <ItemGroup>

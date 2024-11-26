@@ -1,70 +1,106 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\",
+  "WorkspaceRootPath": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\i novbe\\desktop\\webapplicationtask\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\areas\\manage\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:areas\\manage\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\areas\\manage\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:areas\\manage\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\areas\\manage\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:areas\\manage\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\i novbe\\desktop\\webapplicationtask\\areas\\manage\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\areas\\manage\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:areas\\manage\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\i novbe\\desktop\\webapplicationtask\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\i novbe\\desktop\\webapplicationtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\i novbe\\desktop\\webapplicationtask\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\i novbe\\desktop\\webapplicationtask\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\i novbe\\desktop\\webapplicationtask\\areas\\manage\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:areas\\manage\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\i novbe\\desktop\\webapplicationtask\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\i novbe\\desktop\\webapplicationtask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\i novbe\\desktop\\webapplicationtask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\areas\\manage\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:areas\\manage\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\i novbe\\desktop\\webapplicationtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\i novbe\\desktop\\webapplicationtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\i novbe\\desktop\\webapplicationtask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\i novbe\\desktop\\webapplicationtask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\i novbe\\desktop\\webapplicationtask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\webapplicationtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:webapplicationtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\i novbe\\desktop\\webapplicationtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\migrations\\20241126191957_updatetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:migrations\\20241126191957_updatetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|c:\\users\\revan\\desktop\\development\\codeacademy\\tasks\\coffeeshop\\webapplicationtask\\migrations\\20241126185855_addtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E11B39-B4F0-45B1-A5D5-8D246B1BBCDD}|WebApplicationTask.csproj|solutionrelative:migrations\\20241126185855_addtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,92 +110,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Areas\\Manage\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Areas\\Manage\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Manage\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T08:57:35.359Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Areas\\Manage\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Areas\\Manage\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Areas\\Manage\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Areas\\Manage\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T08:57:28.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Areas\\Manage\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Areas\\Manage\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Areas\\Manage\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Areas\\Manage\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Areas\\Manage\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Manage\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T08:12:16.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Areas\\Manage\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Areas\\Manage\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Areas\\Manage\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T08:12:06.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAowFUAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T08:11:54.706Z",
+              "WhenOpened": "2024-11-26T19:42:20.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAAAM0AAAAmAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Areas\\Manage\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Areas\\Manage\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Manage\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T08:11:31.134Z",
+              "WhenOpened": "2024-11-26T19:34:23.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Areas\\Manage\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Areas\\Manage\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Areas\\Manage\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:34:12.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAACUBAAAAAAAAAAAowFkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T08:11:31.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Areas\\Manage\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Areas\\Manage\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Areas\\Manage\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "Areas\\Manage\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -167,72 +176,167 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-26T08:09:51.744Z"
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Areas\\Manage\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Areas\\Manage\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Areas\\Manage\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:57:28.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAtwEAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T08:11:54.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Areas\\Manage\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Areas\\Manage\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Manage\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T08:57:35.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241126191957_UpdateTables.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Migrations\\20241126191957_UpdateTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241126191957_UpdateTables.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Migrations\\20241126191957_UpdateTables.cs",
+              "RelativeToolTip": "Migrations\\20241126191957_UpdateTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:19:57.884Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-26T07:50:13.121Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241126185855_AddTables.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Migrations\\20241126185855_AddTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241126185855_AddTables.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Migrations\\20241126185855_AddTables.cs",
+              "RelativeToolTip": "Migrations\\20241126185855_AddTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:58:56.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:53:48.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:47:14.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:47:01.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T08:12:16.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T08:12:06.741Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\DAL\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\DAL\\AppDbContext.cs",
               "RelativeToolTip": "DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T07:53:07.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBcAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T07:51:50.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "DocumentIndex": 16,
+              "Title": "WebApplicationTask.csproj",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\WebApplicationTask.csproj",
+              "RelativeDocumentMoniker": "WebApplicationTask.csproj",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\WebApplicationTask.csproj",
+              "RelativeToolTip": "WebApplicationTask.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T07:51:44.348Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T17:46:32.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -240,11 +344,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T08:09:51.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:51:50.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T07:51:44.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -252,11 +392,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAOgAAAAAAAAAAAAMwBsBAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -264,11 +404,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebApplicationTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

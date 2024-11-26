@@ -17,47 +17,55 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApplicationTask
 build_property.RootNamespace = WebApplicationTask
-build_property.ProjectDir = C:\Users\I Novbe\Desktop\WebApplicationTask\
+build_property.ProjectDir = C:\Users\revan\Desktop\Development\CodeAcademy\Tasks\CoffeeShop\WebApplicationTask\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\I Novbe\Desktop\WebApplicationTask
+build_property.MSBuildProjectDirectory = C:\Users\revan\Desktop\Development\CodeAcademy\Tasks\CoffeeShop\WebApplicationTask
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/I Novbe/Desktop/WebApplicationTask/Areas/Manage/Views/Dashboard/Index.cshtml]
+[C:/Users/revan/Desktop/Development/CodeAcademy/Tasks/CoffeeShop/WebApplicationTask/Areas/Manage/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXENhdGVnb3J5XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/revan/Desktop/Development/CodeAcademy/Tasks/CoffeeShop/WebApplicationTask/Areas/Manage/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXENhdGVnb3J5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/revan/Desktop/Development/CodeAcademy/Tasks/CoffeeShop/WebApplicationTask/Areas/Manage/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXERhc2hib2FyZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/I Novbe/Desktop/WebApplicationTask/Areas/Manage/Views/Product/Index.cshtml]
+[C:/Users/revan/Desktop/Development/CodeAcademy/Tasks/CoffeeShop/WebApplicationTask/Areas/Manage/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFByb2R1Y3RcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/I Novbe/Desktop/WebApplicationTask/Areas/Manage/Views/Shared/_Layout.cshtml]
+[C:/Users/revan/Desktop/Development/CodeAcademy/Tasks/CoffeeShop/WebApplicationTask/Areas/Manage/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/I Novbe/Desktop/WebApplicationTask/Areas/Manage/Views/_ViewImports.cshtml]
+[C:/Users/revan/Desktop/Development/CodeAcademy/Tasks/CoffeeShop/WebApplicationTask/Areas/Manage/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/I Novbe/Desktop/WebApplicationTask/Areas/Manage/Views/_ViewStart.cshtml]
+[C:/Users/revan/Desktop/Development/CodeAcademy/Tasks/CoffeeShop/WebApplicationTask/Areas/Manage/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/I Novbe/Desktop/WebApplicationTask/Views/Home/Index.cshtml]
+[C:/Users/revan/Desktop/Development/CodeAcademy/Tasks/CoffeeShop/WebApplicationTask/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/I Novbe/Desktop/WebApplicationTask/Views/Shared/_Layout.cshtml]
+[C:/Users/revan/Desktop/Development/CodeAcademy/Tasks/CoffeeShop/WebApplicationTask/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/I Novbe/Desktop/WebApplicationTask/Views/_ViewImports.cshtml]
+[C:/Users/revan/Desktop/Development/CodeAcademy/Tasks/CoffeeShop/WebApplicationTask/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/I Novbe/Desktop/WebApplicationTask/Views/_ViewStart.cshtml]
+[C:/Users/revan/Desktop/Development/CodeAcademy/Tasks/CoffeeShop/WebApplicationTask/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
