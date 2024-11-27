@@ -1,0 +1,39 @@
+﻿@model Product
+
+<div class="container">
+
+	<form method="post" enctype="multipart/form-data">
+		<div class="form-group">
+			<label asp-for="Name">Name</label>
+			<input asp-for="Name" class="form-control" placeholder="Enter Name:">
+			<span asp-validation-for="Name" style="color:red"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="CategoryId">Category</label>
+			<select asp-for="CategoryId" class="form-control">
+				@foreach (Category item in ViewBag.Categories)
+				{
+					<option value="@item.Id">@item.Name</option>
+				}
+			</select>
+			<span asp-validation-for="CategoryId" style="color:red"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="Description">Description</label>
+			<textarea asp-for="Description" class="form-control" rows="3"></textarea>
+			<span asp-validation-for="Description" style="color:red"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="Price">Price</label>
+			<input asp-for="Price" class="form-control" type="number" step="0.01" min="0" placeholder="Enter price" />
+			<span asp-validation-for="Price" class="text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="FormFile">Picture</label>
+			<input asp-for="FormFile" class="form-control-file" />
+			<span asp-validation-for="FormFile" style="color:red"></span>
+		</div>
+		<button type="submit" class="btn btn-primary">Submit</button>
+	</form>
+
+</div>

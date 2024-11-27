@@ -5,7 +5,7 @@ namespace WebApplicationTask.Models
 {
     public class Category:BaseEntity
     {
-        [Required,StringLength(10, ErrorMessage = "The length can be a maximum 10 characters."), MinLength(3, ErrorMessage = "The length can be a minimum 3 characters.")]
+        [Required,StringLength(20, ErrorMessage = "The length can be a maximum 20 characters."), MinLength(3, ErrorMessage = "The length can be a minimum 3 characters.")]
 
         public string Name { get; set; }
 

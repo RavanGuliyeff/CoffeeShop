@@ -1,4 +1,5 @@
-﻿using WebApplicationTask.Models.Base;
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using WebApplicationTask.Models.Base;
 
 namespace WebApplicationTask.Models
 {
@@ -9,7 +10,10 @@ namespace WebApplicationTask.Models
         public double Price { get; set; }
         public string? ImgUrl { get; set; }
         public int CategoryId { get; set; }
-        public Category Category { get; set; }
+        public Category? Category { get; set; }
+
+        [NotMapped]
+        public IFormFile FormFile { get; set; }
 
     }
 }

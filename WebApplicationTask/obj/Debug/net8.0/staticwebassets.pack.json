@@ -7421,6 +7421,98 @@
       "PackagePath": "staticwebassets\\Manage\\vendor\\jquery\\jquery.slim.min.map"
     },
     {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\3740a98a-6a84-427f-b46d-422237bf0c66FNGlx0IXsAQ6Tra.jpeg",
+      "PackagePath": "staticwebassets\\Upload\\Product\\3740a98a-6a84-427f-b46d-422237bf0c66FNGlx0IXsAQ6Tra.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\4K-Wallpaper-Gaming-88685.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Product\\4K-Wallpaper-Gaming-88685.jpg"
+    },
+    {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\4c734074-14f1-4cfe-9908-4052e546b9754K-Wallpaper-Gaming-88685.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Product\\4c734074-14f1-4cfe-9908-4052e546b9754K-Wallpaper-Gaming-88685.jpg"
+    },
+    {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\67177d4a-9c1c-474a-94b0-89b06ef01d7cFNGlx0IXsAQ6Tra.jpeg",
+      "PackagePath": "staticwebassets\\Upload\\Product\\67177d4a-9c1c-474a-94b0-89b06ef01d7cFNGlx0IXsAQ6Tra.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\78b21749c836ac1e656bc41010d56d1b.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Product\\78b21749c836ac1e656bc41010d56d1b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\84e2bf78-66b8-4476-9acc-79e6f0ed6470wallpaperflare.com_wallpaper.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Product\\84e2bf78-66b8-4476-9acc-79e6f0ed6470wallpaperflare.com_wallpaper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\88023fd7-81f8-4e60-bb5b-4041a1c127bf8133737b8f2bc8bc270fce7b7d6ab6dc.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Product\\88023fd7-81f8-4e60-bb5b-4041a1c127bf8133737b8f2bc8bc270fce7b7d6ab6dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\b0a50071-dfb1-4672-a0fd-2db0abe0d696FNGlx0IXsAQ6Tra.jpeg",
+      "PackagePath": "staticwebassets\\Upload\\Product\\b0a50071-dfb1-4672-a0fd-2db0abe0d696FNGlx0IXsAQ6Tra.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\dd08947f-b6aa-46ad-8789-396ffcab347578b21749c836ac1e656bc41010d56d1b.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Product\\dd08947f-b6aa-46ad-8789-396ffcab347578b21749c836ac1e656bc41010d56d1b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\f8b564fb-11f8-4b0b-8805-c1cc714780cf530384.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Product\\f8b564fb-11f8-4b0b-8805-c1cc714780cf530384.jpg"
+    },
+    {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\hot-americano.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\hot-americano.png"
+    },
+    {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\hot-cappuccino.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\hot-cappuccino.png"
+    },
+    {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\hot-espresso.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\hot-espresso.png"
+    },
+    {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\hot-latte.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\hot-latte.png"
+    },
+    {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\iced-americano.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\iced-americano.png"
+    },
+    {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\iced-cappuccino.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\iced-cappuccino.png"
+    },
+    {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\iced-espresso.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\iced-espresso.png"
+    },
+    {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\iced-latte.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\iced-latte.png"
+    },
+    {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\smoothie-1.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\smoothie-1.png"
+    },
+    {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\smoothie-2.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\smoothie-2.png"
+    },
+    {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\smoothie-3.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\smoothie-3.png"
+    },
+    {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\smoothie-4.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\smoothie-4.png"
+    },
+    {
+      "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\Upload\\Product\\wp2879363.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Product\\wp2879363.jpg"
+    },
+    {
       "Id": "C:\\Users\\revan\\Desktop\\Development\\CodeAcademy\\Tasks\\CoffeeShop\\WebApplicationTask\\wwwroot\\css\\tooplate-wave-cafe.css",
       "PackagePath": "staticwebassets\\css\\tooplate-wave-cafe.css"
     },
