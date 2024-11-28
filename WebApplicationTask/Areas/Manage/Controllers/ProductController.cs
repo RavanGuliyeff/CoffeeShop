@@ -86,54 +86,50 @@ namespace WebApplicationTask.Areas.Manage.Controllers
         [HttpPost]
 		public IActionResult Update(Product product)
 		{
-			// Kategorileri ViewBag'e aktaralım
 			ViewBag.Categories = _dbContext.Categories.ToList();
 
-			// Eğer dosya yüklenmemişse hata verelim
 			if (product.FormFile == null || product.FormFile.Length == 0)
 			{
 				ModelState.AddModelError("File", "Please upload a file.");
 				return View(product);
 			}
 
-			// Dosyanın türünü kontrol edelim
 			if (!product.FormFile.ContentType.Contains("image"))
 			{
 				ModelState.AddModelError("File", "Wrong file type. Please upload an image.");
 				return View(product);
 			}
 
-			// Dosya boyutunun 2MB'yi geçmemesini sağlayalım
 			if (product.FormFile.Length > 2097152)
 			{
 				ModelState.AddModelError("File", "Image size must be under 2MB.");
 				return View(product);
 			}
 
-			// Dosyayı yükleyelim
 			product.ImgUrl = product.FormFile.Upload(_env.WebRootPath, "Upload/Product");
 
-			// ModelState geçerli değilse, hataları geri gönderelim
 			if (!ModelState.IsValid)
 			{
 				return View(product);
 			}
 
-			// Ürünü veritabanından alalım
 			Product? oldProduct = _dbContext.Products.FirstOrDefault(p => p.Id == product.Id);
 			if (oldProduct == null)
 			{
 				return NotFound();
 			}
+            if (!string.IsNullOrEmpty(oldProduct.ImgUrl))
+            {
+                FileExtension.Delete(_env.WebRootPath, "Upload/Product", oldProduct.ImgUrl);
+            }
+            oldProduct.Name = product.Name;
+            oldProduct.Description = product.Description;
+            oldProduct.Price = product.Price;
+            oldProduct.CategoryId = product.CategoryId;
+            oldProduct.ImgUrl = product.ImgUrl;  
 
-			// Ürün bilgilerinde güncelleme yapalım
-			oldProduct.Name = product.Name;
-			oldProduct.ImgUrl = product.ImgUrl;  // Eğer görsel de güncelleniyorsa
-
-			// Değişiklikleri kaydedelim
 			_dbContext.SaveChanges();
 
-			// Kullanıcıyı listeleme sayfasına yönlendirelim
 			return RedirectToAction("Index");
 		}
 

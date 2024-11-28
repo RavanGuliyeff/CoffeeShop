@@ -67,7 +67,7 @@ namespace WebApplicationTask.Areas.Manage.Controllers
                 return View(category);
             }
 
-            Category oldCategory = _dbContext.Categories.FirstOrDefault(x => x.Id == category.Id);
+            Category? oldCategory = _dbContext.Categories.FirstOrDefault(x => x.Id == category.Id);
             if (oldCategory == null) return NotFound();
 
             oldCategory.Name = category.Name;
